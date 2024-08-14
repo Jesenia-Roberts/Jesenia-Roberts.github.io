@@ -1,0 +1,13 @@
+.header {
+    height: 20vh;
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+    align-items: top;
+    
+}
+
+.footer {
+    display: flex; 
+    align-items: bottom;
+}
