@@ -1,0 +1,5 @@
+Launch "Visual Studio 2022 developer command prompt" as admin
+type and hit enter "cd C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\projects\CS-300"
+type and hit enter "code ."
+Load the "ABCU_Advising_Program_Input.txt" file:
+C:\Users\colinbe\Downloads\Enhancement2\Enhancement2\Enhancement2\CS-300\ABCU_Advising_Program_Input.txt
